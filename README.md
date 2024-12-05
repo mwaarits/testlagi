@@ -2,8 +2,4 @@
 ## haloo
 
 
-hiiiiiiiiiiiii
-
-test
-
-gua test lagi
+hiiiiiiiiiii
